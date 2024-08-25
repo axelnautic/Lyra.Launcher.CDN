@@ -2,7 +2,28 @@
     "News": [
       {
         "title": "Test",
-	"body": "Hello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello World",
+	"body": "Lyra Client developers:
+• oAnshul
+• carlton
+• ASM
+• harvs
+• Ice Bear
+• Optic
+• Harvs
+• FreezeEngine
+• ttf
+• Withor2301
+• TebexStore
+
+Website developed by Ice Bear
+
+Server developed by warranting
+
+Discord bot developed by Aarush
+
+Lyra Launcher developed by happenedagain, some code was taken and modified from the following repositories:
+https://github.com/flarialmc/launcher
+https://github.com/HorionContinued/Injector/blob/master/HorionInjector/Injector.cs",
 	"author": "happenedagain",
 	"date": "Today",
 	"imageurl": "https://images-ext-1.discordapp.net/external/L-1F5etXP12wOMVKQ41snnYhCdpYOvo6c1mPP05ekbc/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/1263086445891944591/b816519f6db6407ab41f1a93fc3f015c.png"
